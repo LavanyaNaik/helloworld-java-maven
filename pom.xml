@@ -18,15 +18,15 @@
   
   <distributionManagement>
   <repository>
-  <id>deployment</id>
-  <name>Internal Releases</name>
-  <url>http://54.171.181.80:8081/nexus/content/repositories/cts-hosted-release/</url>
+  <id>Lav_Hosted_Release</id>
+  <name>Lav_Hosted_Release</name>
+  <url>http://54.229.84.231:8081/nexus/content/repositories/Lav_Hosted_Release/</url>
   </repository>
  
   <snapshotRepository>
-<id>deployment</id>
-<name>Internal Releases</name>
-<url>http://54.171.181.80:8081/nexus/content/repositories/cts-hosted-snapshot/</url>
+<id>Lav_Hosted_Snapshot</id>
+<name>Lav_Hosted_Snapshot</name>
+<url>http://54.229.84.231:8081/nexus/content/repositories/Lav_Hosted_Snapshot//</url>
 </snapshotRepository>
 </distributionManagement>
 
