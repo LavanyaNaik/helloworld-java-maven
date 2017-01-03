@@ -18,13 +18,13 @@
   
   <distributionManagement>
   <repository>
-  <id>Lav_Hosted_Release</id>
+  <id>deployment</id>
   <name>Lav_Hosted_Release</name>
   <url>http://54.229.84.231:8081/nexus/content/repositories/Lav_Hosted_Release/</url>
   </repository>
  
   <snapshotRepository>
-<id>Lav_Hosted_Snapshot</id>
+<id>deployment</id>
 <name>Lav_Hosted_Snapshot</name>
 <url>http://54.229.84.231:8081/nexus/content/repositories/Lav_Hosted_Snapshot//</url>
 </snapshotRepository>
